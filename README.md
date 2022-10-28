@@ -1,14 +1,17 @@
-# MOI
-## Mon nom
-- 👋 Hi, I’m @lucienrivat
+# Me
+## My name
+- 🦹‍♂️ Hi, I’m **@lucienrivat**, I'm **18**.
 ## Location
--Lyon, in france
-## Mes acctivitées
-- 👀 I’m interested in sport, videogame, go out with friend
-- 🌱 I’m currently learning info, electronic, math and physic
-## Me contacter
-- Mail : lucien.rivat@edu.ece.fr
-- Insta : lucien_rvt
+- 📌 **Lyon**, in France.
+## My acctivity
+- 👀 I’m interested in :
+**sport** 🏋️‍,
+**videogame** 🎮,
+**go out** with friend.
+- 👨‍🎓 I’m currently learning **info** 💻, **electronic** 👨‍🔧, **math** ➕ and **physic**👨‍🔬.
+## How to contact me
+- **Mail** 📧: lucien.rivat@edu.ece.fr
+- **Insta** 📱 : lucien_rvt
 
 
 <!---
