@@ -6,8 +6,7 @@
 ## My acctivity
 - 👀 I’m interested in :
 **sport** 🏋️‍,
-**videogame** 🎮,
-**go out** with friend.
+**videogame** 🎮.
 - 👨‍🎓 I’m currently learning **info** 💻, **electronic** 👨‍🔧, **math** ➕ and **physic**👨‍🔬.
 ## How to contact me
 - **Mail** 📧: lucien.rivat@edu.ece.fr
