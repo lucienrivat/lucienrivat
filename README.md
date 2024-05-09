@@ -1,6 +1,6 @@
 # Me
 ## My name
-- 🦹‍♂️ Hi, I’m **@lucienrivat**, I'm **18**.
+- 🦹‍♂️ Hi, I’m **@lucienrivat**, I'm **20**.
 ## Location
 - 📌 **Lyon**, in France.
 ## My acctivity
@@ -10,7 +10,7 @@
 - 👨‍🎓 I’m currently learning **info** 💻, **electronic** 👨‍🔧, **math** ➕ and **physic**👨‍🔬.
 ## How to contact me
 - **Mail** 📧: lucien.rivat@edu.ece.fr
-- **Insta** 📱 : lucien_rvt
+- **Insta** 📱 : l_rvt
 
 
 <!---
